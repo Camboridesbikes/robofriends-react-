@@ -12,7 +12,8 @@ class App extends Component {
       robots: [],
       searchfield: ''
     }
-  }
+  }ne
+
 
   componentDidMount() {
     fetch('https://jsonplaceholder.typicode.com/users')
